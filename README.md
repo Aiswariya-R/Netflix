@@ -31,4 +31,4 @@ To use this project for your own data analysis or to enhance the existing visual
 4. Experiment with various visualizations, filters, and parameters to uncover additional insights from the Netflix dataset.
 
 # License
-This project is licensed under the MIT License. 
+This project is licensed under the [MIT License](https://github.com/Aiswariya-R/Netflix/blob/main/LICENSE). 
