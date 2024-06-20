@@ -1,6 +1,14 @@
-# Netflix - Tableau Project
+# Netflix - A Tableau Project
 
-This project explores the Netflix dataset using Tableau, aiming to analyze and visualize various aspects of Netflix's content catalog. By leveraging Tableau's capabilities, we uncover patterns and trends in content types, release dates, genres, and more. This analysis helps understand the diversity and distribution of Netflix's offerings, aiding in strategic decisions for content curation and user engagement.
+Welcome to the repository for "Netflix- A Tableau Project". This project explores the Netflix dataset using Tableau, aiming to analyze and visualize various aspects of Netflix's content catalog. By leveraging Tableau's capabilities, we uncover patterns and trends in content types, release dates, genres, and more. This analysis helps to understand the diversity and distribution of Netflix's offerings, aiding in strategic decisions for content curation and user engagement.
+
+# Table of Contents
+
+1. [Description](#description)
+2. [Dataset](#dataset)
+3. [Usage](#usage)
+4. [Contributions](#contributions)
+5. [License](#license)
 
 # Description
 
@@ -30,5 +38,9 @@ To use this project for your own data analysis or to enhance the existing visual
 3. Customize the dashboards and layout to effectively present your insights.
 4. Experiment with various visualizations, filters, and parameters to uncover additional insights from the Netflix dataset.
 
+# Contributions
+
+Contributions to this project are welcome! If you have any ideas, suggestions, or improvements, please feel free to submit a pull request. Make sure to provide a detailed description of your changes.
+
 # License
-This project is licensed under the [MIT License](https://github.com/Aiswariya-R/Netflix/blob/main/LICENSE). 
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Aiswariya-R/Netflix/blob/main/LICENSE) file for details.. 
