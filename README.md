@@ -43,4 +43,4 @@ To use this project for your own data analysis or to enhance the existing visual
 Contributions to this project are welcome! If you have any ideas, suggestions, or improvements, please feel free to submit a pull request. Make sure to provide a detailed description of your changes.
 
 # License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Aiswariya-R/Netflix/blob/main/LICENSE) file for details.. 
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Aiswariya-R/Netflix/blob/main/LICENSE) file for details.
