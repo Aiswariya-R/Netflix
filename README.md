@@ -33,7 +33,7 @@ The dataset used for this project is the Netflix Movies and TV Shows dataset ava
 
 To leverage this project for your own data analysis or to enhance the existing visualizations, please follow these steps:
 
-1. **Open the Tableau Workbook:** Launch the Netflix Dashboard.twbx file in Tableau Desktop or Tableau Public.
+1. **Open the Tableau Workbook:** Launch the [Netflix Dashboard.twbx](https://github.com/Aiswariya-R/Netflix/blob/main/Netflix%20data_analysis.twbx) file in Tableau Desktop or Tableau Public.
    
 2. **Modify Visualizations:**  Adjust the existing visualizations or create new ones tailored to your specific requirements.
    
