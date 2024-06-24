@@ -2,6 +2,9 @@
 
 Welcome to the repository for "Netflix- A Tableau Project". This project explores the Netflix dataset using Tableau, aiming to analyze and visualize various aspects of Netflix's content catalog. By leveraging Tableau's capabilities, we uncover patterns and trends in content types, release dates, genres, and more. This analysis helps to understand the diversity and distribution of Netflix's offerings, aiding in strategic decisions for content curation and user engagement.
 
+![Netflix](NetflixGIF.gif)
+
+
 # Table of Contents
 
 1. [Description](#description)
